@@ -24,3 +24,5 @@ To use the Work Day Scheduler, simply visit the website and start adding tasks t
 - DayJS
 
 #### Here is the website link: https://nazyasar.github.io/work-day-scheduler/
+
+![Screenshot_20230112_042101](https://user-images.githubusercontent.com/55256787/212183964-4f8ef76a-cf18-47cd-b47a-aa74a19a0e66.png)
