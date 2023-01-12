@@ -27,10 +27,15 @@ body {
   .hour {
     background-color: #ffffff;
     color: #000000;
-    border-top: 1px dashed #000000;
+    border-top: 1px solid #000000;
     font-weight: bold;
-    border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px solid;
+    border-bottom-right-radius: 15px solid;
+    border-left: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
   
   .past {
@@ -66,8 +71,9 @@ body {
     background-color: rgb(233, 174, 174);
     color: black;
     border-radius: 0;
-    border: 5px solid black;
-    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 
   #currentDay {
