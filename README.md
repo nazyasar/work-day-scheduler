@@ -4,13 +4,13 @@ This is a simple web application that allows users to schedule and manage their 
 
 ## Features
 
-Displays the current time and date
-Shows schedule for the work day (9am-5pm)
-Add new tasks with descriptions
+- Displays the current time and date
+- Shows schedule for the work day (9am-5pm)
+- Add new tasks with descriptions
 
 ## Features can be added in the future
-Mark tasks as complete
-Edit or delete existing tasks
+- Mark tasks as complete
+- Edit or delete existing tasks
 
 ## Getting Started
 To use the Work Day Scheduler, simply visit the website and start adding tasks to your schedule. The application will automatically save your tasks so you can access them later.
