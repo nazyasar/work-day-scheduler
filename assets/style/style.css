@@ -28,6 +28,9 @@ body {
     background-color: #ffffff;
     color: #000000;
     border-top: 1px dashed #000000;
+    font-weight: bold;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
   }
   
   .past {
@@ -49,7 +52,7 @@ body {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #06aed5;
+    background-color: #197286;
     color: white;
   }
   
@@ -60,8 +63,14 @@ body {
 
   .jumbotron {
     text-align: center;
-    background-color: transparent;
+    background-color: rgb(233, 174, 174);
     color: black;
     border-radius: 0;
     border: 5px solid black;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  #currentDay {
+    font-size: 24px;
+    font-weight: bold;
   }
