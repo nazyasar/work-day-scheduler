@@ -25,4 +25,6 @@ To use the Work Day Scheduler, simply visit the website and start adding tasks t
 
 #### Here is the website link: https://nazyasar.github.io/work-day-scheduler/
 
-![Screenshot_20230112_042101](https://user-images.githubusercontent.com/55256787/212183964-4f8ef76a-cf18-47cd-b47a-aa74a19a0e66.png)
+## Image of the Website
+
+![Screenshot 2023-01-13 101239](https://user-images.githubusercontent.com/55256787/212353609-c2763298-ad79-4201-9554-5b389df70b6d.png)
