@@ -10,14 +10,11 @@ $(document).ready(function () {
     $(".time-block").each(function () {
         var timeBlock = $(this).attr("id").split("-")[1];
     
-        if (currentHour === timeBlock) {
+        if (currentHour == timeBlock) {
             $(this).addClass("present");
-            // $(this).children(".description").addClass("white-text");
           } else if (currentHour < timeBlock) {
-            // $(this).removeClass("present");
             $(this).addClass("future");
-          } else if (currentHour > timeBlock) {
-            // $(this).removeClass("future");
+          } else {
             $(this).addClass("past");
           }
         });
